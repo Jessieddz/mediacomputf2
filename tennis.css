@@ -1,0 +1,9 @@
+
+body.gamecat {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+body.gamecat canvas {
+  display: block;
+}
